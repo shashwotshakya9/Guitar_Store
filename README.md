@@ -4,9 +4,12 @@ System used by admin of the store to keep the records of their items.
 Created via NetBeans. Open using netbeans recommended.
 The project looks like :
 </br>
-![Alt Text](https://github.com/shashwotshakya9/Guitar_Store/blob/master/Images/GUI.PNG)
+![GUI](https://raw.githubusercontent.com/shashwotshakya9/Guitar_Store/main/Images/GUI.PNG)
 </br>
 
 You can also add/remove the items in the store
 </br>
-![Alt Text](https://github.com/shashwotshakya9/Guitar_Store/blob/master/Images/Add-Guitar-GUI.PNG)
+![Add GUI](https://raw.githubusercontent.com/shashwotshakya9/Guitar_Store/main/Images/Add-Guitar-GUI.PNG)
+
+WireFrame 
+![Wireframe](https://raw.githubusercontent.com/shashwotshakya9/Guitar_Store/main/Images/Wireframe.PNG)
